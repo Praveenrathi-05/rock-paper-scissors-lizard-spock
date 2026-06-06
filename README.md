@@ -18,3 +18,8 @@ This project helped me understand how to break a problem into smaller functions 
 
 An Introduction to Interactive Programming in Python (Part 1)
 Rice University
+
+## Note
+
+This project was developed in the CodeSkulptor environment used in Rice University's Fundamentals of Computing course.
+Some libraries and GUI components are specific to that environment and may not run directly in standard Python.
